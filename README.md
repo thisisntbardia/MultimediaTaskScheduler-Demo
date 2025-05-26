@@ -28,7 +28,7 @@ Installation
 Follow these steps to set up the project locally:
 
 Clone the Repository:
-git clone https://github.com/your-username/MultimediaTaskScheduler-Demo.git
+git clone https://github.com/thisisntbardia/MultimediaTaskScheduler-Demo.git
 cd MultimediaTaskScheduler-Demo
 
 
