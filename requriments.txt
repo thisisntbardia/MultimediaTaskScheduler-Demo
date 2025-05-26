@@ -1,0 +1,11 @@
+flask==2.0.1
+flask-login==0.5.0
+flask-limiter==1.4
+pymongo==4.0.2
+redis==4.0.2
+moviepy==1.0.3
+pillow==9.0.1
+pydub==0.25.1
+mutagen==1.45.1
+bcrypt==3.2.0
+waitress==2.0.0
